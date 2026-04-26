@@ -8,11 +8,13 @@ This Privacy Policy applies to the Trace Quest mobile application (the “Applic
 
 ## Information Collection and Use
 
-The Application **does not collect, store, or share any personal information** from users.
+The Application is designed to function entirely offline and **does not require users to create an account or provide any personal information**.
 
-All features of the Application, including tracing alphabets (A–Z) and numbers (0–9), work entirely offline and do not require users to provide any personal data.
+The Service Provider **does not directly collect, store, or share any personal data** from users.
 
-The Application does not track users, does not require account creation, and does not transmit any user data to external servers.
+However, the Application may use third-party services that may automatically collect **limited technical information**, such as device type, operating system version, or basic diagnostic data. This information is used only to improve app performance and stability and **cannot be used to identify users personally**.
+
+All core features of the Application, including tracing alphabets (A–Z) and numbers (0–9), work without requiring any personal data.
 
 ---
 
@@ -20,7 +22,7 @@ The Application does not track users, does not require account creation, and doe
 
 The Application may use third-party tools or frameworks (such as Expo or Google Play Services) to support app functionality and distribution.
 
-These services may collect limited technical information (such as device type or operating system) as part of their normal operation. The Service Provider does not use this information to identify users.
+These services may collect limited technical information as part of their normal operation. The Service Provider does not control and is not responsible for how these third-party services handle data.
 
 ---
 
@@ -28,7 +30,12 @@ These services may collect limited technical information (such as device type or
 
 The Application is designed for children to help them learn writing skills through tracing letters and numbers.
 
-The Service Provider does **not knowingly collect any personal information from children under the age of 13**. Since the Application does not collect any personal data at all, children can use it safely without providing any personal information.
+The Application:
+- **Does not knowingly collect personal information from children under the age of 13**  
+- **Does not require account creation**  
+- **Does not include social features or user interaction between users**  
+
+The Service Provider does not knowingly collect any personal information from children under 13.
 
 If you believe that a child has provided personal information, please contact the Service Provider so appropriate action can be taken.
 
@@ -36,7 +43,7 @@ If you believe that a child has provided personal information, please contact th
 
 ## Security
 
-Since the Application does not collect or store any personal information, there is no risk of user data being accessed, shared, or misused.
+Since the Application does not directly collect or store personal information, the risk of user data exposure is minimal. Any technical data collected by third-party services is handled according to their respective security practices.
 
 ---
 
@@ -53,3 +60,9 @@ You are advised to review this Privacy Policy periodically for any changes.
 If you have any questions about this Privacy Policy or the Application, you can contact the Service Provider at:
 
 📧 **mb.farhan.m.1.9.9.8@gmail.com**
+
+---
+
+## Consent
+
+By using the Application, you agree to this Privacy Policy.
