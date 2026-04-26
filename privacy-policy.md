@@ -1,6 +1,6 @@
 # Privacy Policy for Trace Quest
 
-**Last updated:** April 23, 2026  
+**Last updated:** April 26, 2026  
 
 This Privacy Policy applies to the Trace Quest mobile application (the “Application”), developed by **Flex Code Studio** (the “Service Provider”). The Application is provided as a **free educational app** and is intended for use “AS IS”.
 
